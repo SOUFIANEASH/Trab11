@@ -1,0 +1,13 @@
+{
+  "email_student": "28638@stu.ipbeja.pt",
+  "email_personal": "soufianeachouch09@gmail.com",
+  "phone": "+370 600 00000",
+  "skype": "soufiane.achouch",
+  "location": "Gedimino pr. 45, LT-01109 Vilnius, Lithuania",
+  "availability": "Open to internships and collaborations",
+  "social": [
+    { "label": "GitHub", "url": "https://github.com/SOUFIANEASH", "handle": "github.com/SOUFIANEASH" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/soufiane-achouch/", "handle": "linkedin.com/in/soufiane-achouch" },
+    { "label": "Skype", "url": "skype:soufiane.achouch?call", "handle": "soufiane.achouch" }
+  ]
+}
