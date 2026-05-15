@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Website",
+    "description": "A hand-coded personal website built with HTML5 semantic elements, following W3C accessibility guidelines. Includes four sections: Home, CV, Schedule, and Contact. Deployed on GitHub Pages.",
+    "tech": ["HTML5", "CSS3", "GitHub Pages"],
+    "category": "Web",
+    "year": 2026,
+    "highlight": true
+  },
+  {
+    "id": 2,
+    "title": "Tic-Tac-Toe Game",
+    "description": "An interactive Tic-Tac-Toe game built in ReactJS with persistent score tracking across games, match history log, and animated win detection. Developed as Practical Work 10.",
+    "tech": ["React", "Vite", "CSS Modules"],
+    "category": "Game",
+    "year": 2026,
+    "highlight": true
+  },
+  {
+    "id": 3,
+    "title": "Personal Portfolio — ReactJS",
+    "description": "A multi-page personal portfolio built with ReactJS and React Router. Data for each section (About, Portfolio, Contact) is fetched from JSON files using Fetch API and Axios. Developed as Practical Work 11.",
+    "tech": ["React", "Vite", "React Router", "Axios", "Fetch API"],
+    "category": "Web",
+    "year": 2026,
+    "highlight": true
+  }
+]
