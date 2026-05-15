@@ -67,5 +67,3 @@ Trab11_28638/
         └── Contact.jsx     ← Fetch API
 ```
 
-> **Note:** Remove `node_modules/` before compressing.
-> Submission: `Trab11_numAluno.zip`
